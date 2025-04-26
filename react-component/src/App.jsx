@@ -2,6 +2,7 @@
 import './App.css'
 import HelloWorld from './components/Helloword'
 import Chocolate from './components/chocolate'
+import Soma from './components/Soma'
 
 function App() {
   
@@ -10,6 +11,7 @@ function App() {
     <div>
       <HelloWorld/>
       <Chocolate/>
+      <Soma/>
     </div>
     
   )
