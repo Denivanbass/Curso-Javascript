@@ -1,0 +1,15 @@
+Domínio de Front end:
+
+Figma / Adobe XD(Muito mais caro)
+
+Frameworks:
+Angular(Utilizado mais em bancos)
+React(Mais utilizado no mundo)
+Vue(Utilizado mais no Canadá)
+
+Medium(Relembrar o uso de componentes React/ Javascript)
+
+
+fake store api - simulador de api de ecommerce
+
+Sonar Qube - Faz a verificação do código, para saber se está limpo e atualizado.

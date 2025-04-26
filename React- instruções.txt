@@ -1,0 +1,7 @@
+React:
+
+
+apagar o conteúdo dentro do app.jsx e criar uma div
+apagar o conteúdo todo de app.css
+apagar o conteúdo do index.css e inserir a configuração global.
+
