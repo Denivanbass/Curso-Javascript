@@ -1,5 +1,8 @@
 export default function Chocolate(){
     return (
-        <h1>Chocolate</h1>
+        <div>
+            <h1>Chocolate</h1>
+        </div>
+        
     )
 }
